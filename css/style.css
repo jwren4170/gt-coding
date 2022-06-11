@@ -499,7 +499,7 @@ footer a:hover {
 
 /* Media Queries */
 
-@media (max-width: 650px) {
+@media (max-width: 912px) {
     .wrapper {
         padding: 0;
         width: auto;
